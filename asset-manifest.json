@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56654f4b.css",
+    "main.js": "/static/js/main.0e7627cf.js",
+    "static/media/main-image.png": "/static/media/main-image.5d4d52da3502061f137d.png",
+    "static/media/bg-services.png": "/static/media/bg-services.f7d9fcccf7be61caa5cc.png",
+    "static/media/slider-bg.png": "/static/media/slider-bg.aec111afdee222345d89.png",
+    "static/media/tv.png": "/static/media/tv.41ab94482e86611514ab.png",
+    "static/media/service-1.png": "/static/media/service-1.28c30ab24ad201b2c6ca.png",
+    "static/media/service-4.png": "/static/media/service-4.3b4de871ac4a31135a77.png",
+    "static/media/service-3.png": "/static/media/service-3.1412e292e4e7bba2cabc.png",
+    "static/media/service-2.png": "/static/media/service-2.a599a2db2800b964a24c.png",
+    "static/media/logo.svg": "/static/media/logo.a6a6067c5b30361796faacd2d7395cb0.svg",
+    "static/media/photo.png": "/static/media/photo.80596403843aa99aa66c.png",
+    "static/media/mail.svg": "/static/media/mail.7f478b23a8b706a884c8.svg",
+    "static/media/download.svg": "/static/media/download.07f964f207d296c2e202.svg",
+    "static/media/phone.svg": "/static/media/phone.13f7efa44b9663dfc63b.svg",
+    "index.html": "/index.html",
+    "main.56654f4b.css.map": "/static/css/main.56654f4b.css.map",
+    "main.0e7627cf.js.map": "/static/js/main.0e7627cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56654f4b.css",
+    "static/js/main.0e7627cf.js"
+  ]
+}
